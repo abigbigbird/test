@@ -2,4 +2,3 @@
 print 'Hello World'
 print 'hahah'
 ptint 'zhizhijiejiesss'
-print 'zhizhi'
