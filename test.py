@@ -6,7 +6,4 @@ print 'sjxsjx'
 print 'zhizhijiejiesjxsjxtestest'
 ptint 'zhizhijiejiesss'
 print 'zhizhi'
-
-
-
-fd
+aaaaa
